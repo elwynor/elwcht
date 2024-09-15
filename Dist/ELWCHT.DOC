@@ -1,0 +1,47 @@
+   
+    _______        __    __                          
+   / ___/ /  ___ _/ /_  / /  ___  __ _____  ___ ____ 
+  / /__/ _ \/ _ `/ __/ / /__/ _ \/ // / _ \/ _ `/ -_)
+  \___/_//_/\_,_/\__/ /____/\___/\_,_/_//_/\_, /\__/ 
+                                          /___/      
+                                        
+                    version 1.1
+       Copyright (c) 2024 Elwynor Technologies
+          
+
+ WHAT IS CHAT LOUNGE?
+
+ Chat Lounge is a simple teleconference which allows people to use aliases 
+ for total anonymity. It includes generic action ("ga" command) support.
+ 
+ USAGE
+
+ Enter the module, provide an alias, and chat!  Everything you type
+ goes out to everyone in the Chat Lounge.   
+ 
+ COMMANDS
+ 
+ Type your message, and it goes out to everyone present.  Just hitting enter
+ will display a list of the aliases in the Chat Lounge.  Typing help or /h
+ will provide a short help text.
+
+ To send an action you can use the "ga" command, for example:
+   ga is laughing out loud.
+
+ This would send the following message to all other users in the Chat Lounge:
+   <alias> is laughing out loud. 
+
+ SysOps can use a "scan" command to learn the identity of users, if necessary.
+  
+ INSTALLATION AND CONFIGURATION
+ 
+ Simply unzip the archive to your BBS directory, add the module to your menu,
+ configure the MSG file to your liking, and start the BBS! It's that easy!
+
+ MODULE HISTORY
+ 
+ Chat Lounge was written and developed by Mike Polzin of WilderLand Software.
+ Elwynor Technologies acquired the module in 2004, and ported it to Worldgroup
+ v3.2 in February 2006. In September 2024, it was ported to Major BBS V10.
+
+ 

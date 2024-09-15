@@ -1,0 +1,28 @@
+; ELWCHT.MDF
+
+Module Name: Chat Lounge
+
+Developer: Elwynor Technologies
+
+Requires:
+Replaces:
+
+Install:
+
+Online user manual: 
+
+DLLs: ELWCHT
+MSGs: ELWCHT
+
+Btrieve page size: 512
+Btrieve files:     0
+
+Cleanup:
+
+Event-1:
+Event-2:
+Event-3:
+Event-4:
+
+Add-On Utility:
+

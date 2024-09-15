@@ -1,0 +1,6 @@
+; Filename: ELWCHT_LIB.DEF
+LIBRARY ELWCHT.DLL
+; *** Visual Studio 2022 EXPORT ALIASES ONLY ***
+; Chat Lounge - Copyright (c) 2024 Elwynor Technologies
+EXPORTS
+    init__elwcht=_init__elwcht	@1
